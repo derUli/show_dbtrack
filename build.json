@@ -1,0 +1,10 @@
+{
+	"id": "show_dbtrack",
+	"version": "1.0",
+	"description": "Shows history of database migrations",
+	"categories": [
+		"admin",
+		"database"
+	],
+	"compatible_from": "2017.3.12"
+}

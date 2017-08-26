@@ -1,0 +1,13 @@
+{
+	"source": "extend",
+	"version": "1.0",
+	"embed": false,
+	"controllers": {
+		"ShowDbTrack": "ShowDbTrack"
+	},
+	"main_class": "ShowDbTrack",
+	"custom_acl": [
+		"show_dbtrack"
+	],
+	"admin_permission": "show_dbtrack"
+}
